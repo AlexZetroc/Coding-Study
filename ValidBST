@@ -31,3 +31,4 @@ node.right.left = Node(6)
 
 print(Solution().isValidBST(node))
 #True
+ 
